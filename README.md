@@ -1,0 +1,1 @@
+A modern authentication application built with Next.js, React 19, TypeScript, and Tailwind CSS featuring form handling, validation, and a comprehensive UI component library.
